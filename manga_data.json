@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "Id": "manga_001",
+    "Title": "火影忍者",
+    "Author": "岸本齐史",
+    "Genre": "少年,忍者,战斗,成长",
+    "Description": "这是一个关于忍者世界的故事，主角鸣人通过努力成为火影的冒险历程。",
+    "HasCustomCover": true,
+    "CoverLocalPath": "covers/naruto_cover.jpg",
+    "CoverGitName": "naruto_cover.jpg",
+    "CreatedAt": "2024-01-15T08:30:00Z",
+    "UpdatedAt": "2024-01-15T08:30:00Z"
+  },
+  {
+    "Id": "manga_002",
+    "Title": "海贼王",
+    "Author": "尾田荣一郎",
+    "Genre": "少年,冒险,海盗,梦想",
+    "Description": "路飞为了成为海贼王，与伙伴们一起在大海上冒险的故事。",
+    "HasCustomCover": true,
+    "CoverLocalPath": "covers/onepiece_cover.jpg",
+    "CoverGitName": "onepiece_cover.jpg",
+    "CreatedAt": "2024-01-16T10:15:00Z",
+    "UpdatedAt": "2024-01-16T10:15:00Z"
+  },
+  {
+    "Id": "manga_003",
+    "Title": "进击的巨人",
+    "Author": "谏山创",
+    "Genre": "科幻,悬疑,战斗,黑暗",
+    "Description": "人类为了对抗巨人的威胁，在高墙内挣扎求生的故事。",
+    "HasCustomCover": true,
+    "CoverLocalPath": "covers/attack_cover.jpg",
+    "CoverGitName": "attack_cover.jpg",
+    "CreatedAt": "2024-01-17T14:20:00Z",
+    "UpdatedAt": "2024-01-17T14:20:00Z"
+  },
+  {
+    "Id": "manga_004",
+    "Title": "银魂",
+    "Author": "空知英秋",
+    "Genre": "少年,喜剧,动作,科幻",
+    "Description": "在攘夷战争后的江户，银桑与伙伴们经营万事屋的搞笑日常。",
+    "HasCustomCover": false,
+    "CoverLocalPath": "",
+    "CoverGitName": "",
+    "CreatedAt": "2024-01-18T09:45:00Z",
+    "UpdatedAt": "2024-01-18T09:45:00Z"
+  }
+]
